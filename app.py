@@ -62,11 +62,11 @@ def main():
     """
     <style>
     .reportview-container {
-        background: url("https://www.med-technews.com/downloads/5267/download/heart.png?cb=62e60ff7e02cdc59ece203ad7618e261");
+        background: url("https://www.med-technews.com/downloads/5267/download/heart.png");
         background-size:cover;
     }
    .sidebar .sidebar-content {
-        background: url("https://www.med-technews.com/downloads/5267/download/heart.png?cb=62e60ff7e02cdc59ece203ad7618e261")
+        background: url("https://www.med-technews.com/downloads/5267/download/heart.png")
     }
     </style>
     """,
